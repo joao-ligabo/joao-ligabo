@@ -1,7 +1,7 @@
 Olá! Eu sou o João-Ligabo
 
-- 🔭 Hoje faço Curso Tecnico no Senai
-- 🌱 Estudando Banco de Dados e Back-end
+-  Hoje faço Curso Tecnico no Senai
+-  Estudando Banco de Dados e Back-end
 - Futuro Dev
 
 <div>
@@ -11,10 +11,16 @@ Olá! Eu sou o João-Ligabo
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ligabo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Ligabo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ligabo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Ligabo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   <img align="center" alt="Ligabo-GITHUB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+   <img align="center" alt="Ligabo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Ligabo-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Ligabo-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Ligabo-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  
+          
+          
+                 
+         
 </div>
 
 
