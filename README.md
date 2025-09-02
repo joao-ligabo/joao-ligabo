@@ -1,6 +1,5 @@
-Olá! Eu sou o João-Ligabo
-
--  Hoje faço Curso Tecnico no Senai
+Olá! Eu sou o João-Ligabo, tenho 16 anos e sou apaixonado por programação.
+Formado pelo SENAI, tô sempre buscando evoluir e aprender novas tecnologias.
 -  Estudando Banco de Dados e Back-end
 - Futuro Dev
 
