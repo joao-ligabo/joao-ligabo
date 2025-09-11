@@ -1,7 +1,18 @@
-Olá! Eu sou o João-Ligabo, tenho 16 anos e sou apaixonado por programação.
-Formado pelo SENAI, tô sempre buscando evoluir e aprender novas tecnologias.
+Olá! Eu sou o João-Ligabo, tenho 17 anos e sou apaixonado por programação.
+Formando em programação, tô sempre buscando evoluir e aprender novas tecnologias.
 -  Estudando Banco de Dados e Back-end
 - Futuro Dev
+
+##
+
+<h1>Sobre Mim</h1>
+Atualmente curso Técnico em Desenvolvimento de Sistemas pelo SENAI e fazendo o Ensino Médio pelo Sesi, com foco em desenvolvimento Back-End. Tenho aprofundado meus conhecimentos em Git, MySql, PHP e Java, buscando aplicar na prática os conceitos aprendidos por meio de projetos e estudos contínuos.
+
+Além disso, também estou em formação contínua no idioma Inglês, ampliando minha capacidade de comunicação na área de tecnologia.
+
+Sou proativo, tenho facilidade para trabalhar em equipe e estou sempre disposto a colaborar e aprender. Prezo por um ambiente de cooperação e acredito que o crescimento profissional acontece em conjunto.
+
+##
 
 <div>
    <a href="https://github.com/joao-ligabo">
