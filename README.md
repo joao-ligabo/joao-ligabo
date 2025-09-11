@@ -6,14 +6,16 @@ Formando em programação, tô sempre buscando evoluir e aprender novas tecnolog
 ##
 
 <h1>Sobre Mim</h1>
+
 Atualmente curso Técnico em Desenvolvimento de Sistemas pelo SENAI e fazendo o Ensino Médio pelo Sesi, com foco em desenvolvimento Back-End. Tenho aprofundado meus conhecimentos em Git, MySql, PHP e Java, buscando aplicar na prática os conceitos aprendidos por meio de projetos e estudos contínuos.
 
 Além disso, também estou em formação contínua no idioma Inglês, ampliando minha capacidade de comunicação na área de tecnologia.
 
 Sou proativo, tenho facilidade para trabalhar em equipe e estou sempre disposto a colaborar e aprender. Prezo por um ambiente de cooperação e acredito que o crescimento profissional acontece em conjunto.
 
-##
 
+
+##
 <div>
    <a href="https://github.com/joao-ligabo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-ligabo&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
