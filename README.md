@@ -24,7 +24,6 @@ Sou proativo, tenho facilidade para trabalhar em equipe e estou sempre disposto 
 </div>
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Ligabo-GITHUB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Ligabo-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="Ligabo-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Ligabo-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
