@@ -4,7 +4,7 @@ Formando em programação, tô sempre buscando evoluir e aprender novas tecnolog
 -  Estudando Banco de Dados e Back-end
 - Futuro Dev
 
-##
+
 
 <h1>Sobre Mim</h1>
 
@@ -15,7 +15,7 @@ Além disso, também estou em formação contínua no idioma Inglês, ampliando 
 Sou proativo, tenho facilidade para trabalhar em equipe e estou sempre disposto a colaborar e aprender. Prezo por um ambiente de cooperação e acredito que o crescimento profissional acontece em conjunto.
 
 
-##
+
 
 <h1>Objetivos Profissionais </h1>
 
@@ -27,12 +27,12 @@ Também pretendo atuar em projetos reais que me desafiem, fortaleçam minha expe
 
 
 
-##
+
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ligabo-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Ligabo-MYSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Ligabo-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Ligabo-PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Ligabo-MYSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Ligabo-JAVA" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Ligabo-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
   
