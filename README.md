@@ -15,14 +15,25 @@ Além disso, também estou em formação contínua no idioma Inglês, ampliando 
 Sou proativo, tenho facilidade para trabalhar em equipe e estou sempre disposto a colaborar e aprender. Prezo por um ambiente de cooperação e acredito que o crescimento profissional acontece em conjunto.
 
 
+##
+
+<h1>Objetivos Profissionais </h1>
+
+Busco evoluir constantemente como desenvolvedor, aprimorando minhas habilidades em programação e construindo projetos cada vez mais eficientes, organizados e completos. Tenho o objetivo de me especializar na área de desenvolvimento back-end, criando soluções seguras, escaláveis e bem estruturadas.
+
+Além disso, quero ampliar meu domínio em linguagens como Java, MySql, GoLang, aplicando boas práticas, padrões de projeto e aprofundando meu entendimento sobre estruturas de dados, lógica de programação e sistemas distribuídos.
+
+Também pretendo atuar em projetos reais que me desafiem, fortaleçam minha experiência e me permitam colaborar com equipes que valorizam inovação, aprendizado contínuo e qualidade no código. Busco construir uma trajetória sólida na tecnologia, sempre com foco em crescer como profissional e contribuir para soluções que realmente façam diferença.
+
+
 
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ligabo-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Ligabo-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Ligabo-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Ligabo-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Ligabo-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Ligabo-MYSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Ligabo-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Ligabo-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
   
           
