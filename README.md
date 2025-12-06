@@ -15,15 +15,19 @@ Além disso, também estou em formação contínua no idioma Inglês, ampliando 
 Sou proativo, tenho facilidade para trabalhar em equipe e estou sempre disposto a colaborar e aprender. Prezo por um ambiente de cooperação e acredito que o crescimento profissional acontece em conjunto.
 
 
+<h1>Minhas Habilidades</h1>
+
+Tenho experiência com Java, C++, MySql, HTML/CSS e conceitos de POO, lógica de programação e estruturas de dados. Sei trabalhar com APIs, coleções Java, regex, Date/Time API e versionamento com Git/GitHub.
+Busco sempre escrever código limpo, aprender novas tecnologias e evoluir como desenvolvedor de forma constante.
+
+
 
 
 <h1>Objetivos Profissionais </h1>
 
 Busco evoluir constantemente como desenvolvedor, aprimorando minhas habilidades em programação e construindo projetos cada vez mais eficientes, organizados e completos. Tenho o objetivo de me especializar na área de desenvolvimento back-end, criando soluções seguras, escaláveis e bem estruturadas.
 
-Além disso, quero ampliar meu domínio em linguagens como Java, MySql, GoLang, aplicando boas práticas, padrões de projeto e aprofundando meu entendimento sobre estruturas de dados, lógica de programação e sistemas distribuídos.
 
-Também pretendo atuar em projetos reais que me desafiem, fortaleçam minha experiência e me permitam colaborar com equipes que valorizam inovação, aprendizado contínuo e qualidade no código. Busco construir uma trajetória sólida na tecnologia, sempre com foco em crescer como profissional e contribuir para soluções que realmente façam diferença.
 
 
 
