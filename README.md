@@ -17,7 +17,7 @@ Sou proativo, tenho facilidade para trabalhar em equipe e estou sempre disposto 
 
 <h1>Minhas Habilidades</h1>
 
-Tenho experiência com Java, C++, MySql, HTML/CSS e conceitos de POO, lógica de programação e estruturas de dados. Sei trabalhar com APIs, coleções Java, regex, Date/Time API e versionamento com Git/GitHub.
+Tenho experiência com Java, JavaScript, MySql, postgreSql e conceitos de POO, lógica de programação e estruturas de dados. Sei trabalhar com APIs, coleções Java, regex, Date/Time API e versionamento com Git/GitHub.
 Busco sempre escrever código limpo, aprender novas tecnologias e evoluir como desenvolvedor de forma constante.
 
 
@@ -34,9 +34,10 @@ Busco evoluir constantemente como desenvolvedor, aprimorando minhas habilidades 
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ligabo-PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Ligabo-MYSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Ligabo-JAVA" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Ligabo-PYTHON" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Ligabo-POSTGRESQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Ligabo-MYSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Ligabo-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
   
