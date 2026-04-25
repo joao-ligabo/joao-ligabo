@@ -29,23 +29,17 @@ Busco evoluir constantemente como desenvolvedor, aprimorando minhas habilidades 
 
 
 
-
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ligabo-JAVA" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Ligabo-PYTHON" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Ligabo-POSTGRESQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Ligabo-MYSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Ligabo-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+  <img alt="Ligabo-JAVA" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img alt="Ligabo-PYTHON" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img alt="Ligabo-POSTGRESQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Ligabo-MYSQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Ligabo-GIT" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
           
   
-          
-          
+        
                  
-         
-</div>
 
 
 
