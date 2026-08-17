@@ -8,7 +8,7 @@ Formando em programação, tô sempre buscando evoluir e aprender novas tecnolog
 
 <h1>Sobre Mim</h1>
 
-Atualmente curso Técnico em Desenvolvimento de Sistemas pelo SENAI e fazendo o Ensino Médio pelo Sesi, com foco em desenvolvimento Back-End. Tenho aprofundado meus conhecimentos em Git, MySql, PHP e Java, buscando aplicar na prática os conceitos aprendidos por meio de projetos e estudos contínuos.
+Atualmente curso Técnico em Desenvolvimento de Sistemas pelo SENAI e fazendo o Ensino Médio pelo Sesi, com foco em desenvolvimento Back-End. Tenho aprofundado meus conhecimentos em Git, MySql, Python e Java, buscando aplicar na prática os conceitos aprendidos por meio de projetos e estudos contínuos.
 
 Além disso, também estou em formação contínua no idioma Inglês, ampliando minha capacidade de comunicação na área de tecnologia.
 
