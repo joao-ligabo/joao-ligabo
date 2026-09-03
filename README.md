@@ -17,7 +17,7 @@ Sou proativo, tenho facilidade para trabalhar em equipe e estou sempre disposto 
 
 <h1>Minhas Habilidades</h1>
 
-Tenho experiência com Java, JavaScript, MySql, postgreSql e conceitos de POO, lógica de programação e estruturas de dados. Sei trabalhar com APIs, coleções Java, regex, Date/Time API e versionamento com Git/GitHub.
+Tenho experiência com Java, JavaScript, MySql, postgreSql e conceitos de POO, lógica de programação e estruturas de dados. Sei trabalhar com APIs, SpringBoot, boas práticas em Java e versionamento com Git/GitHub.
 Busco sempre escrever código limpo, aprender novas tecnologias e evoluir como desenvolvedor de forma constante.
 
 
