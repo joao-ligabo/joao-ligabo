@@ -1,5 +1,5 @@
 <h1>João Ligabo</h1>
-Olá! Eu sou o João-Ligabo, tenho 17 anos e sou apaixonado por programação.
+Olá! Eu sou o João-Ligabo, tenho 18 anos e sou apaixonado por programação.
 Formando em programação, tô sempre buscando evoluir e aprender novas tecnologias.
 -  Estudando Banco de Dados e Back-end
 - Futuro Dev
